@@ -1,4 +1,4 @@
-# Olá! Eu sou a Danielle 👋🏼
+# Hello! I'm Danielle 👋🏼
 
 - 💠 She/her;
 - 🎓 Digital Design student at PUC-Campinas;
