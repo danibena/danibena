@@ -3,7 +3,7 @@
 - 💠 She/her;
 - 🎓 Digital Design student at PUC-Campinas;
 - 💻 Communication Intern at <a href="https://cucasconteudo.com.br">Cucas Conteúdo</a>;
-- 🌱 Estou estudando Desenvolvimento Front-End através da <a href="https://github.com/reprograma">{reprograma}</a>;
+- 🌱 Learning Front-End Development through <a href="https://github.com/reprograma">{reprograma}</a>;
 
 
 ##
