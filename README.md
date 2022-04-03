@@ -1,7 +1,7 @@
 # Hello! I'm Danielle 👋🏼
 
 - ✨ She/her;
-- 🎓 Digital Design student at PUC-Campinas;
+- 🎓 Digital Design student at <a href="https://www.puc-campinas.edu.br/internationalen/">PUC-Campinas</a>;
 - 💻 Communication Intern at <a href="https://cucasconteudo.com.br">Cucas Conteúdo</a>;
 - 🌱 Learning Front-End Development through <a href="https://github.com/reprograma">{reprograma}</a>.
 
