@@ -1,6 +1,7 @@
 # Hello! I'm Danielle 👋🏼
 
 - ✨ She/her;
+- 🇧🇷 Brasilian;
 - 🎓 Digital Design student at <a href="https://www.puc-campinas.edu.br/internationalen/">PUC-Campinas</a>;
 - 💻 Communication Intern at <a href="https://cucasconteudo.com.br">Cucas Conteúdo</a>;
 - 🌱 Learning Front-End Development through <a href="https://github.com/reprograma">{reprograma}</a>.
@@ -13,13 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danibena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibena&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-<div style="display: inline_block"><br>
-
-
-<img align="center" alt="dani-ae" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-<img align="center" alt="dani-pr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"> 
-</div>
+  <br>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></code>
@@ -27,7 +22,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"></code> 
 
-  
   ##
   
   <div> 
